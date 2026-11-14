@@ -1,6 +1,9 @@
 # ignore data folder
 /data/
 
+# ignore a clone branch
+/earthquake-branching/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
